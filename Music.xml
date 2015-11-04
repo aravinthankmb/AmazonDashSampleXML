@@ -1,6 +1,6 @@
 <Response>
-<Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
-<Play>Automatic Message from Honeywell One Touch Reporting First floor printer is not working !!!</Play>
+<Say voice="alice">Automatic Message from Honeywell One Touch Reporting</Say>
+<Play>Happy Campus First floor printer is not working !!!</Play>
 </Response>
 
 
